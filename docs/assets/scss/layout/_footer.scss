@@ -1,0 +1,17 @@
+.nav-item {
+    .nav-link {
+        &:hover {
+            color: white;
+            cursor: pointer;
+        }
+    }
+}
+
+.icon {
+    color: $success;
+    cursor: pointer;
+
+    &:hover {
+        color: white;
+    }
+}
