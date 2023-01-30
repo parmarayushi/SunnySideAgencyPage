@@ -1,0 +1,16 @@
+.contact-btn {
+    background: white;
+    padding: 0.375rem 0.75rem;
+    border: none;
+
+    &:hover {
+        background-color: rgba(255, 255, 255, 0.212);
+        color: white;
+    }
+}
+
+.button {
+    background-color: #f7d41b;
+    padding: 0.375rem 0.75rem;
+    border: none;
+}
